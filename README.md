@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/geracilawfirm/Geraci%20Agile/_apis/build/status/Ox-ideas.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/geracilawfirm/Geraci%20Agile/_build/latest?definitionId=8&branchName=master)
-https://dev.azure.com/geracilawfirm/Geraci%20Agile/_apis/build/status/Ox-ideas.pipelines-dotnet-core?branchName=master
+![Image of Build](https://dev.azure.com/geracilawfirm/Geraci%20Agile/_apis/build/status/Ox-ideas.pipelines-dotnet-core?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
